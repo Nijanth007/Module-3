@@ -11,7 +11,7 @@ To write a Python program to check whether the string `"google"` is a **palindro
    - Otherwise, print that it is not a palindrome.
 4. Execute the program.
 
-## 🧾 Program
+## 🧾 Program 
 ~~~
 # Assign the string
 s = "google"
